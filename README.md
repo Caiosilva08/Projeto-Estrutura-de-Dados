@@ -4,4 +4,4 @@ Através da aplicação dos princípios de pilhas e filas, este jogo simula um a
 
 Além disso, o projeto incorpora uma gama de outros conceitos fundamentais aprendidos na disciplina, incluindo estruturas de dados lineares e não lineares, recursividade, alocação dinâmica de memória e manipulação de ponteiros. Esta abordagem prática não apenas reforça o entendimento teórico dos conceitos, mas também proporciona uma experiência significativa na implementação de algoritmos e estruturas de dados em um contexto real.
 
-Para a execução do mesmo é necessário apenas um editor de código, com suporte a C++. Basta baixar os dois arquivos .C e executá-los.
+Para a execução do mesmo é necessário apenas um editor de código, com suporte a C++ defvidamente configurado. Recomendo o seguinte [tutorial(https://www.youtube.com/watch?v=pYcneq-aOaQ&t=324s)] para a instalação o editor e configuração correta: 
