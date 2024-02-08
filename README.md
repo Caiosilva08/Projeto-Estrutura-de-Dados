@@ -8,4 +8,4 @@ Além disso, o projeto incorpora uma gama de outros conceitos fundamentais apren
 ## Execução
 Para a execução do mesmo é necessário apenas um editor de código, com suporte a C++ devidamente configurado. Recomendo o tutorial que você pode seguir clicando [aqui](https://www.youtube.com/watch?v=pYcneq-aOaQ&t=324s) para a instalação do editor e configuração correta.
 
-Após isso basta clonar o repositório, executar o aquivo *main*.c em seu editor e jogar o game.
+Após isso basta clonar o repositório, abrir com seu editor a pasta com os arquivos e compilar o arquivo *Main*_Projeto.c para rodar o game.
