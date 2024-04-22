@@ -1,4 +1,4 @@
-## Sobre o Projeto:
+## Sobre o Projeto (Campo Minado por turnos):
 Este projeto representa a síntese dos conceitos aprendidos na disciplina de Estruturas de Dados do curso de Sistemas de Informação da Universidade Federal de Viçosa à qual sou discente, onde exploramos o poder das estruturas de pilha e fila para criar um desafiante jogo de tabuleiro em C++.
 
 Através da aplicação dos princípios de pilhas e filas, este jogo simula um ambiente em que o jogador deve navegar de um ponto inicial até um ponto final, evitando as 'minas' escondidas ao longo do percurso. 
